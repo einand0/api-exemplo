@@ -1,0 +1,49 @@
+{
+  "livros": [
+    {
+      "título": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "autor": "Robert C. Martin",
+      "área": "Desenvolvimento de Software",
+      "imagem": "URL_da_Imagem1",
+      "editora": "Prentice Hall",
+      "ano_publicação": 2008,
+      "isbn": "978-0132350884"
+    },
+    {
+      "título": "JavaScript: The Good Parts",
+      "autor": "Douglas Crockford",
+      "área": "JavaScript",
+      "imagem": "URL_da_Imagem2",
+      "editora": "O'Reilly Media",
+      "ano_publicação": 2008,
+      "isbn": "978-0596517748"
+    },
+    {
+      "título": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "área": "Design de Software",
+      "imagem": "URL_da_Imagem3",
+      "editora": "Addison-Wesley",
+      "ano_publicação": 1994,
+      "isbn": "978-0201633610"
+    },
+    {
+      "título": "Python Crash Course",
+      "autor": "Eric Matthes",
+      "área": "Python",
+      "imagem": "URL_da_Imagem4",
+      "editora": "No Starch Press",
+      "ano_publicação": 2015,
+      "isbn": "978-1593276034"
+    },
+    {
+      "título": "The Pragmatic Programmer: Your Journey to Mastery",
+      "autor": "Dave Thomas, Andy Hunt",
+      "área": "Desenvolvimento de Software",
+      "imagem": "URL_da_Imagem5",
+      "editora": "Addison-Wesley",
+      "ano_publicação": 2019,
+      "isbn": "978-0135957059"
+    }
+  ]
+}
